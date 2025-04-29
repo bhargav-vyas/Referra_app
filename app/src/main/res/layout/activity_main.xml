@@ -12,7 +12,7 @@
         android:id="@+id/greetingText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
+        android:text="Login page"
         android:textSize="24sp"
         android:textColor="#333333"
         android:textStyle="bold"
